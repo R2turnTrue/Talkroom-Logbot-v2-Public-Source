@@ -1,4 +1,5 @@
 # Talkroom Logbot v2 (NODE.JS)
+참고: 이 봇은 더이상 써이지 않습니다\
 [![디스코드 서버](https://img.shields.io/badge/Discord-Server-blue.svg)](https://discord.gg/cy8dXkz)\
 안녕하세요! 수다방 로그봇 개발자 `나무` 입니다!\
 이 소스들은 수다방 로그봇 소스 입니다.\
